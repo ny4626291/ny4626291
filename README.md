@@ -177,10 +177,10 @@ I'm interested in collaborating on:
 https://github.com/ny4626291
 
 🔗 **LinkedIn:**  
-Add your LinkedIn profile here
+https://www.linkedin.com/in/neeraj-yadav-a99558333/
 
 🔗 **LeetCode:**  
-Add your LeetCode profile here
+https://leetcode.com/u/ny4626291/
 
 ---
 
